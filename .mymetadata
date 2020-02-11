@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="CoolCabs"
+  id="myeclipse.1556079450027"
+  context-root="/CoolCabs"
+  j2ee-spec="5.0"
+  archive="CoolCabs.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
